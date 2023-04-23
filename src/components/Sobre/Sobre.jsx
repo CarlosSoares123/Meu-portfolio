@@ -1,13 +1,14 @@
 import * as S from './Sobre'
 import * as C from '../../App.styles'
 
+
 export const Sobre = () => {
   return(
       <S.sobreContainer id='sobre'>
         
         <S.sobreTop>
           <S.imgProfile>
-            <img src="#" alt="Imagem do autor" />
+            <img src="/user.jpg" alt="Imagem do autor" />
           </S.imgProfile>
         </S.sobreTop>
 

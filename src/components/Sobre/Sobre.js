@@ -20,7 +20,7 @@ export const sobreTop = styled.div`
 export const imgProfile = styled.figure`
   width: 100%;
   clip-path: circle();
-  background-color: aqua;
+  
 
   img{
     width: 250px;
