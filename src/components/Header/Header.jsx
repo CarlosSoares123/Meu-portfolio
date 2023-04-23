@@ -3,6 +3,7 @@ import { BsList } from "react-icons/bs";
 import { BsFillLaptopFill } from "react-icons/bs";
 import { BsXLg } from "react-icons/bs";
 
+import { Link } from 'react-scroll';
 
 
 export const Header = ({onClick, onClose, menuAberto, handleClickLink}) => {
