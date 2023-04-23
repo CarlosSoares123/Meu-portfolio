@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import * as C from '../../App.styles'
+
 
 export const headerContainer = styled.header`
   width: 100%;
