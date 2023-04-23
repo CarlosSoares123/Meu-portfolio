@@ -28,7 +28,7 @@ export const Hero = () => {
         <C.titulo1>😁 Saudações!</C.titulo1>
         <h2>Carlos Soares</h2>
         <p>
-          Oi, Seja Bem vindo ao meu Portfolio, aqui encontraram informações sobre mim, minhas habilidades e os meus projectos. 
+          Oi, Seja Bem vindo ao meu Portfolio, aqui encontrarão informações sobre mim, minhas habilidades e meus projetos.
           <br />
           <br />
           <span style={{fontWeight: '600'}}>
