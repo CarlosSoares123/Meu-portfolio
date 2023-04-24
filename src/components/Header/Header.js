@@ -4,7 +4,7 @@ import styled from 'styled-components'
 export const headerContainer = styled.header`
   width: 100%;
   display: flex;
-  padding: 20px 30px;
+  padding: 20px 2rem;
   justify-content: space-between;
   align-items: center;
 
@@ -14,8 +14,15 @@ export const headerContainer = styled.header`
   top: 0;
   left: 0;
   z-index: 100;
+  @media (min-width: 768px) {
+    padding-inline: 5.4rem;
+  }
   @media (min-width: 992px) {
     padding: 20px;
+    padding-inline: 6.6rem;
+  }
+  @media (min-width: 992px) {
+    padding-inline: 11rem;
   }
 `
 

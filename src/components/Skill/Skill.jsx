@@ -49,6 +49,16 @@ export const Skill = () => {
           </Sk.skillPer>
         </Sk.skillBar>
       </Sk.SkillBox>
+
+      <Sk.SkillBox>
+        <Sk.title>GithHub</Sk.title>
+        <Sk.skillBar>
+          <Sk.skillPer className='github'>
+            <Sk.tooltip>40%</Sk.tooltip>
+          </Sk.skillPer>
+        </Sk.skillBar>
+      </Sk.SkillBox>
+
       </Sk.skillContent>
       
 

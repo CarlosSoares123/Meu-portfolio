@@ -57,6 +57,10 @@ export const skillPer = styled.span`
     width: 65%;
     animation-delay: 0.4s;
   }
+  &.github{
+    width: 40%;
+    animation-delay: 0.4s;
+  }
 
   @keyframes progress {
     0% {

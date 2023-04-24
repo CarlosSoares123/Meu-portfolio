@@ -90,7 +90,7 @@ padding-inline: 15px;
   }
 @media(min-width: 992px){
     section{
-      padding-inline: 80px;
+      padding-inline: 90px;
   }
 }
 @media(min-width: 1100px){
