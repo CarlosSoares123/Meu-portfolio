@@ -111,7 +111,7 @@ export const Body = styled.div`
     top: 0;
     pointer-events: none;
     transform: translate(-50%, -50%);
-    transition: .1s ease;
+    transition: .1s;
     z-index: 200;
   }
   .cursor2{
@@ -124,7 +124,7 @@ export const Body = styled.div`
     top: 0;
     pointer-events: none;
     transform: translate(-50%, -50%);
-    transition: .15s ease;
+    transition: .2s;
     z-index: 200;
   }
 

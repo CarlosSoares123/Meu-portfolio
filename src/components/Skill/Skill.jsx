@@ -8,16 +8,9 @@ export const Skill = () => {
       <C.titulo1>🤗 Skill</C.titulo1>
       <C.titulo2>Meu Nivel Tecnico</C.titulo2>
       <p>
-      Possuo habilidades sólidas em HTML e CSS, o que me permite criar designs atraentes 
-      e funcionais para projetos web. Além disso, tenho um conhecimento mediano em JavaScript 
-      puro, como funções, objetos, manipulação da DOM, condições e repetições.
-      Também possuo um conhecimento mediano em React, uma das bibliotecas JavaScript mais populares 
-      do mercado. Com essa habilidade, sou capaz de criar componentes, páginas de carregamento e 
-      manipular rotas com o React Router. Além disso, sou capaz de usar os hooks do React, como o 
-      useState e o useEffect, bem como o styled-components para criar estilos personalizados para 
-      meus componentes.
-      Estou sempre buscando aprender e melhorar minhas habilidades em programação, e estou animado 
-      para continuar a me aprimorar e expandir minhas habilidades. 
+      Sou um desenvolvedor web com habilidades sólidas em HTML, CSS e JavaScript. Com meu conhecimento mediano em React, sou capaz de criar designs atraentes e funcionais para projetos web, além de manipular rotas com o React Router e criar estilos personalizados com o styled-components
+      <br />
+      Estou sempre buscando aprender e melhorar minhas habilidades em programação, e estou animado para continuar a me aprimorar e expandir minhas habilidades. 
       </p>
       
       <Sk.skillContent>
