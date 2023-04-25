@@ -1,0 +1,19 @@
+{
+    "name": "Carlos Soares - Web Desenvolvedor",
+    "short_name": "Carlos Soares - Web Desenvolvedor",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#7b4ae2",
+    "background_color": "#7b4ae2",
+    "display": "standalone"
+}
