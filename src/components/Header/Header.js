@@ -9,6 +9,7 @@ export const headerContainer = styled.header`
   align-items: center;
 
   background: var(--cor-bg-dark-header);
+  
 
   position: fixed;
   top: 0;

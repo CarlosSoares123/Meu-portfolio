@@ -4,7 +4,7 @@ import image3 from '/Site-img/liceu.png'
 import image4 from '/Site-img/snake.png'
 import image5 from '/Site-img/emobiliario.png'
 import image6 from '/Site-img/lista-tarefa.png'
-import image7 from '/Site-img/r.state.png'
+import image7 from '/Site-img/page-product.png'
 import image8 from '/Site-img/galeria.png'
 
 
@@ -60,10 +60,10 @@ export const images = [
   {
     id: 7,
     img: image7,
-    name: "R.State",
-    site: "https://aluguerdemo.netlify.app/",
-    descricao: "R.State Website de uma loja de renda de casas.",
-    categoria: "htmlCssJs",
+    name: "Pagina de Produto",
+    site: "https://pagina-produto-carlos.netlify.app/",
+    descricao: "Pagina de produto feito em react js",
+    categoria: "reactJs",
   },
   {
     id: 8,

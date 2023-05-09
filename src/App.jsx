@@ -28,8 +28,7 @@ function App() {
     setMenuAberto(false)
   }
 
-  const [position, setPosition] = useState({ x: -100, y: -100 });
-  
+  const [position, setPosition] = useState({ x: -100, y: -100 });  
   useEffect(() => {
     const onMouseMove = (e) => {
       setPosition({ x: e.clientX, y: e.clientY });
@@ -41,10 +40,7 @@ function App() {
       document.removeEventListener("mousemove", onMouseMove);
     };
   }, []);
-
-
   const [showScroll, setShowScroll] = useState(false);
-  
   const checkScrollTop = () => {
     if (!showScroll && window.pageYOffset > 400){
       setShowScroll(true);
@@ -52,14 +48,12 @@ function App() {
       setShowScroll(false);
     }
   };
-  
   useEffect(() => {
     window.addEventListener('scroll', checkScrollTop);
     return () => {
       window.removeEventListener('scroll', checkScrollTop);
     };
   }, []);
-  
   const scrollTop = () =>{
     window.scrollTo({top: 0, behavior: 'smooth'});
   };
@@ -81,7 +75,6 @@ function App() {
       <Hero/>
 
       <Sobre />
-
 
       <Skill/>
       
